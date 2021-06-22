@@ -6,6 +6,7 @@
    ```
 2. **Build the site**
    ```
+   docker container rm -f slate;
    docker run --rm --name slate -v $(pwd)/build:/srv/slate/build -v $(pwd)/source:/srv/slate/source slatedocs/slate
    ```
 3. **Run the development server for Slate to aid in working on the site**
