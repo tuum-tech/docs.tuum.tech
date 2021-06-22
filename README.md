@@ -1,3 +1,5 @@
+<p align="center"><em>You can find the latest docs at <a href="https://tuum-tech.github.io/docs.tuum.tech">tuum-tech.github.io/docs.tuum.tech</a>.</em></p>
+
 ## How to build locally
 
 1. **Pull the docker image for 'slate'**
